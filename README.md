@@ -2,6 +2,10 @@
 
 Materi presentasi tentang kepemimpinan kepala sekolah SMA, disusun dalam 15 slide (16:9) beserta catatan pembicara.
 
+## ▶ Lihat presentasi
+
+**[aseppanji-spec.github.io/kepala-sekolah-sukses](https://aseppanji-spec.github.io/kepala-sekolah-sukses/)**: tayangan slide langsung di browser (HP & laptop)
+
 ## Unduh
 
 - 📊 [PowerPoint (.pptx)](Menjadi%20Kepala%20Sekolah%20SMA%20yang%20Sukses.pptx): bisa diedit
